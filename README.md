@@ -13,4 +13,4 @@
     2.Check profit based on product categories
     3.Check popularity,feedback and review of website
     4.Check maintaince of websites
-    5./*--------*/
+    5.Check payment status
