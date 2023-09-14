@@ -11,5 +11,5 @@
             the exam with specific id. portal will be ensure a exam related common data to student, Also will ensure
             error free assessment of the exam which is going to be conducted
 ## Scope :
-            This application can be used in educational institute as well as corporate world. Student can use the portal             at anytime and anywhere also it is web based application. System administrator has previlages to create,                 modify and test paper and topic.
+            This application can be used in educational institute as well as corporate world. Student can use the portal at anytime and anywhere also it is web based application. System administrator has previlages to create, modify and test paper and topic.
             
