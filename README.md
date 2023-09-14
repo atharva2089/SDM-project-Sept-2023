@@ -38,4 +38,11 @@
     5.Login page for user is properly managed.
     6.App should display that the area from where the order is getting placed, the delivery in the same is possible or not. 
     
+### Requirements of user end:
+
+1. Fast response to user.
+2. Application should be secured.
+3. Product should be should be secured.
+4. Application should be open for all user.
+5. Product should be sorted with all details.
 
