@@ -23,3 +23,8 @@
 	
 	- System administrator :
 	CDAC representative should easily check the exam related status of the student.       
+    The system administrator will be able to upload exam paper sets with correct answer on the portal.
+    System admin will be notify for the multiple registration of single student.
+    The system admin will have access to web camera to track the activity of student during exam.
+    The evaluated result to be displayed to admin & after accessibility by admin to students.
+    The session id will be generated for each student when exam is started, session ID will ensure the exam resumption of the student on the abnormal termination of exam due to server or technical issue.
