@@ -26,10 +26,14 @@
                1)Register() :
                2)Login() :
                3)Submit() :
-               4)Display_Result() :
-               5)Reset_Password() :
-               6)Pay() :
-               7)Mark() :
-               8)Fill() :
-               9)Get_Result() :
-               10)Get_Receipt() :
+               4)College information() :
+               5)Display_Result() :
+               6)Reset_Password() :
+               7)Accept Payment() :
+               8)Mark() :
+               9)Profile review() :
+               10)Get_Result() :
+               11)Get_Receipt() :
+               12)Product and service() :
+               13)Help us page() :
+               
