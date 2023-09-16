@@ -3,22 +3,16 @@
           # Student Class :
              -Function :
                1)Register()
-                   -Data Members : 
-                     
-         
-               2)Login() :
-                   -Data Members : 
+               2)Login() :  
+               3)Reset_Password() : 
+               4)Edit profile() :
+               5)Payment() :
+               6)Book slot() :
+               7)Mock Test() :
+               8)Give Final Assesment() :
+               9)Submit Test() :
+               10)Result() :
                    
-                   
-               5)Reset_Password() : 
-                   -Data Members : 
-         
-               3)Payment() :
-                   -Data Members : 
- 
-    
-               4)Result() :
-                   -Data Members : 
 
 
           # System Administrator Class :
@@ -36,4 +30,6 @@
                11)Get_Receipt() :
                12)Product and service() :
                13)Help us page() :
+               14)Placement Details() :
+               15)
                
