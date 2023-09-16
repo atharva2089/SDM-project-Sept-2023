@@ -24,7 +24,7 @@
                5)Display_Result() :
                6)Reset_Password() :
                7)Accept Payment() :
-               8)Mark() :
+               8)Show Rank() :
                9)Profile review() :
                10)Get_Result() :
                11)Get_Receipt() :
