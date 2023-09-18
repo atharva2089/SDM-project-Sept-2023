@@ -15,7 +15,12 @@ details.
 - As a administrator we want to check the information of student so that we  check weather the profile is fake or not.
 - As a administrator we want to check total number of students appear for online exam so that we can arrange seats.
 - As a administrator we want to see payment statment so that we can confirmed the seat for particular student.
- 
+- As a administrator we want to update the question paper sets.
+- As a administrator we want to track the activities of the students through webcam and microphone.
+  
+  
+
+
 
 
 
